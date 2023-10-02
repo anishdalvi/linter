@@ -87,7 +87,7 @@ function App () {
                 <Card sectioned>
                   <div className="subtitle-wrapper">
                     <Text variant="heading3xl" as="h2">
-                      Editor 
+                      Editor
                     </Text>
                   </div>
                   <Editor
