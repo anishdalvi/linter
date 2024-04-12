@@ -1,9 +1,11 @@
 | Github username | Points | weeks completed |
 |-----------------|--------|-----------------|
-| abhishekjani08 | 1472 | 3 |
-| Mri1662        | 1435 | 3 |
-| kmalap05       | 1113 | 2 |
-| anishdalvi     | 556 | 1 |
+| abhishekjani08 | 2572 | 6 |
+| Mri1662        | 2485 | 6 |
+| kmalap05       | 2163 | 5 |
+| anishdalvi     | 1603 | 4 |
+| tanujbordikar  | 485 | 1 |
+| Zaid1681       | 80 | |
+| Saurabh8807    | 60 | |
 | dave-SYD       | 25 | |
-| tanujbordikar  | 10 | |
 
